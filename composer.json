@@ -1,0 +1,14 @@
+{
+    "name": "ykj/sso",
+    "description": "a sso library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yangkejian",
+            "email": "13915778549@139.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
