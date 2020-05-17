@@ -1,6 +1,6 @@
 {
     "name": "ykj/sso",
-    "description": "a single site on library.",
+    "description": "a sso library",
     "type": "library",
     "license": "MIT",
     "authors": [
